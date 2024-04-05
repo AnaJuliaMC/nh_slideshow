@@ -1,3 +1,4 @@
+
 const slide = document.querySelector('.slide');
 const imagens = [
     './imagens/img1.jpeg',
